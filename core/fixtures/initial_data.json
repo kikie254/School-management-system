@@ -1,0 +1,135 @@
+[
+  {
+    "model": "core.schoolsetting",
+    "pk": 1,
+    "fields": {
+      "school_name": "Greenfield Academy",
+      "currency": "KES",
+      "terms_per_year": 3
+    }
+  },
+  {
+    "model": "core.student",
+    "pk": 1,
+    "fields": {
+      "adm_no": "GFA2024101",
+      "firstname": "Student1",
+      "lastname": "Demo",
+      "student_class": "Grade 7"
+    }
+  },
+  {
+    "model": "core.student",
+    "pk": 2,
+    "fields": {
+      "adm_no": "GFA2024102",
+      "firstname": "Student2",
+      "lastname": "Demo",
+      "student_class": "Grade 8"
+    }
+  },
+  {
+    "model": "core.student",
+    "pk": 3,
+    "fields": {
+      "adm_no": "GFA2024103",
+      "firstname": "Student3",
+      "lastname": "Demo",
+      "student_class": "Grade 6"
+    }
+  },
+  {
+    "model": "core.student",
+    "pk": 4,
+    "fields": {
+      "adm_no": "GFA2024104",
+      "firstname": "Student4",
+      "lastname": "Demo",
+      "student_class": "Grade 7"
+    }
+  },
+  {
+    "model": "core.student",
+    "pk": 5,
+    "fields": {
+      "adm_no": "GFA2024105",
+      "firstname": "Student5",
+      "lastname": "Demo",
+      "student_class": "Grade 8"
+    }
+  },
+  {
+    "model": "core.student",
+    "pk": 6,
+    "fields": {
+      "adm_no": "GFA2024106",
+      "firstname": "Student6",
+      "lastname": "Demo",
+      "student_class": "Grade 6"
+    }
+  },
+  {
+    "model": "core.student",
+    "pk": 7,
+    "fields": {
+      "adm_no": "GFA2024107",
+      "firstname": "Student7",
+      "lastname": "Demo",
+      "student_class": "Grade 7"
+    }
+  },
+  {
+    "model": "core.student",
+    "pk": 8,
+    "fields": {
+      "adm_no": "GFA2024108",
+      "firstname": "Student8",
+      "lastname": "Demo",
+      "student_class": "Grade 8"
+    }
+  },
+  {
+    "model": "core.student",
+    "pk": 9,
+    "fields": {
+      "adm_no": "GFA2024109",
+      "firstname": "Student9",
+      "lastname": "Demo",
+      "student_class": "Grade 6"
+    }
+  },
+  {
+    "model": "core.student",
+    "pk": 10,
+    "fields": {
+      "adm_no": "GFA2024110",
+      "firstname": "Student10",
+      "lastname": "Demo",
+      "student_class": "Grade 7"
+    }
+  },
+  {
+    "model": "core.teacher",
+    "pk": 1,
+    "fields": {
+      "staff_no": "T101",
+      "fullname": "Teacher1 Demo"
+    }
+  },
+  {
+    "model": "core.teacher",
+    "pk": 2,
+    "fields": {
+      "staff_no": "T102",
+      "fullname": "Teacher2 Demo"
+    }
+  },
+  {
+    "model": "core.teacher",
+    "pk": 3,
+    "fields": {
+      "staff_no": "T103",
+      "fullname": "Teacher3 Demo"
+    }
+  }
+]
